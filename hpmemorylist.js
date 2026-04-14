@@ -62,10 +62,10 @@ const hpMemList = [
     {map:"Continent of Mu", world:"Wave World", location:"Examine Ancient Star Carrier in Room of Genesis	", item: "HP Memory 10"},
 
     {map:"Alternate Dimension", world:"Wave World", location:"Broken Bus Stop ES (Alt. Echo Ridge ER)", item: "HP Memory 10"},
-    {map:"Alternate Dimension", world:"Wave World", location:"Stuck Windmill ES (Alt. Messie's Cove ER)", item: "HP Memory 20"},
-    {map:"Alternate Dimension", world:"(SHOP)Wave World", location:"Trans Dimension 1", item: "HP Memory 20"},
-    {map:"Alternate Dimension", world:"(SHOP)Wave World", location:"Trans Dimension 1", item: "HP Memory 20"},
-    {map:"Alternate Dimension", world:"(SHOP)Wave World", location:"Trans Dimension 1", item: "HP Memory 20"},
+    {map:"Alternate Dimension", world:"Wave World", location:"Stuck Windmill ES (Alt. Messie's Cove ER)", item: "HP Memory 10"},
+    {map:"Alternate Dimension", world:"(SHOP)Wave World", location:"Trans Dimension 1(10000ƶ)", item: "HP Memory 20"},
+    {map:"Alternate Dimension", world:"(SHOP)Wave World", location:"Trans Dimension 1(15000ƶ)", item: "HP Memory 20"},
+    {map:"Alternate Dimension", world:"(SHOP)Wave World", location:"Trans Dimension 1(20000ƶ)", item: "HP Memory 20"},
 
     
 
