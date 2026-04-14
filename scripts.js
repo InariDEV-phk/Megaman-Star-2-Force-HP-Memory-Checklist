@@ -1,4 +1,4 @@
-const STORAGE_KEY = "activeItems_hpMemSF2";
+const STORAGE_KEY = `activeItems_${window.location.pathname}`;
 const hpMemoryContainer = document.getElementById("hp-mem-list1")
 
 
